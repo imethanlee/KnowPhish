@@ -12,8 +12,8 @@ This is the official repository of our [USENIX Security 2024](https://www.usenix
 
 ## Citation
 Please consider citing our paper if you find it useful:
-```
-@inproceedings {299740,
+```bibtex
+@inproceedings {li2024knowphish,
   author = {Yuexin Li and Chengyu Huang and Shumin Deng and Mei Lin Lock and Tri Cao and Nay Oo and Hoon Wei Lim and Bryan Hooi},
   title = {{KnowPhish}: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing {Reference-Based} Phishing Detection},
   booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
