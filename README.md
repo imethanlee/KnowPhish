@@ -4,7 +4,8 @@
 This is the official repository of our [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) paper "[KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin)".
 
 ## Updates
-- [2024.11] We released the download link for the TR-OP dataset.
+- [2024.01] [PhishAgent](https://arxiv.org/abs/2408.10738), our new work built upon KnowPhish, is accepted by AAAI 2025 (Oral).
+- [2024.11] We release the download link for the TR-OP dataset.
 
 
 ## Datasets
@@ -14,7 +15,9 @@ This is the official repository of our [USENIX Security 2024](https://www.usenix
 Thanks for your interest in our KnowPhish project! Our phishing detector is currently deployed in a commercial setting. Due to security considerations from our sponsors, we are unable to release the code or knowledge base at this time. As such, this GitHub repository serves as a host for the supplementary materials PDF and certain datasets. That said, I am more than happy to answer any questions you may have regarding our paper and its findings. Please feel free to reach out via email or raise an issue here. Thank you again for your attention!
 
 ## Citation
-Please consider citing our paper if you find it useful:
+Please consider citing our papers if you find them useful:
+
+- KnowPhish: 
 ```bibtex
 @inproceedings {li2024knowphish,
   author = {Yuexin Li and Chengyu Huang and Shumin Deng and Mei Lin Lock and Tri Cao and Nay Oo and Hoon Wei Lim and Bryan Hooi},
@@ -27,5 +30,17 @@ Please consider citing our paper if you find it useful:
   url = {https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin},
   publisher = {USENIX Association},
   month = aug
+}
+```
+- PhishAgent:
+```bibtex
+@misc{cao2025phishagentrobustmultimodalagent,
+      title={PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection}, 
+      author={Tri Cao and Chengyu Huang and Yuexin Li and Huilin Wang and Amy He and Nay Oo and Bryan Hooi},
+      year={2025},
+      eprint={2408.10738},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2408.10738}, 
 }
 ```
