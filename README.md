@@ -17,7 +17,7 @@ Thanks for your interest in our KnowPhish project! Our phishing detector is curr
 ## Citation
 Please consider citing our papers if you find them useful:
 
-- KnowPhish: 
+- KnowPhish (USENIX Security 2024): 
 ```bibtex
 @inproceedings {li2024knowphish,
   author = {Yuexin Li and Chengyu Huang and Shumin Deng and Mei Lin Lock and Tri Cao and Nay Oo and Hoon Wei Lim and Bryan Hooi},
@@ -32,7 +32,7 @@ Please consider citing our papers if you find them useful:
   month = aug
 }
 ```
-- PhishAgent:
+- PhishAgent (AAAI 2025):
 ```bibtex
 @misc{cao2025phishagentrobustmultimodalagent,
       title={PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection}, 
