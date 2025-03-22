@@ -49,7 +49,7 @@ Please consider citing our papers if you find them useful:
 ```bibtex
 @misc{li2024phishintel,
     title={PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection},
-    author={Li, Yuexin and Tan, Hiok Kuek and Meng, Qiaoran and Lock, Mei Lin and Cao, Tri and Deng, Shumin and Oo, Nay and Lim, Hoon Wei and Hooi, Bryan},
+    author={Yuexin Li and Hiok Kuek Tan and Qiaoran Meng and Mei Lin Lock and Tri Cao and Shumin Deng and Nay Oo and Hoon Wei Lim and Bryan Hooi},
     year={2025},
     eprint={2412.09057},
     archivePrefix={arXiv},
