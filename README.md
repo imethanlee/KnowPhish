@@ -47,7 +47,7 @@ Please consider citing our papers if you find them useful:
 ```
 - PhishIntel (WWW 2025 Demo):
 ```bibtex
-@article{li2024phishintel,
+@misc{li2024phishintel,
     title={PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection},
     author={Li, Yuexin and Tan, Hiok Kuek and Meng, Qiaoran and Lock, Mei Lin and Cao, Tri and Deng, Shumin and Oo, Nay and Lim, Hoon Wei and Hooi, Bryan},
     year={2025},
