@@ -4,7 +4,8 @@
 This is the official repository of our [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) paper "[KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin)".
 
 ## Updates
-- [2024.01] [PhishAgent](https://arxiv.org/abs/2408.10738), our new work built upon KnowPhish, is accepted by AAAI 2025 (Oral).
+- [2025.01] [PhishIntel](https://arxiv.org/abs/2412.09057), our development-oriented phishing detection system built upon KnowPhish, is accepted by WWW 2025 (Demo).
+- [2024.12] [PhishAgent](https://arxiv.org/abs/2408.10738), our new work built upon KnowPhish, is accepted by AAAI 2025 (Oral).
 - [2024.11] We release the download link for the TR-OP dataset.
 
 
@@ -35,12 +36,24 @@ Please consider citing our papers if you find them useful:
 - PhishAgent (AAAI 2025):
 ```bibtex
 @misc{cao2025phishagentrobustmultimodalagent,
-      title={PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection}, 
-      author={Tri Cao and Chengyu Huang and Yuexin Li and Huilin Wang and Amy He and Nay Oo and Bryan Hooi},
-      year={2025},
-      eprint={2408.10738},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2408.10738}, 
+    title={PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection}, 
+    author={Tri Cao and Chengyu Huang and Yuexin Li and Huilin Wang and Amy He and Nay Oo and Bryan Hooi},
+    year={2025},
+    eprint={2408.10738},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    url={https://arxiv.org/abs/2408.10738}, 
+}
+```
+- PhishIntel (WWW 2025 Demo):
+```bibtex
+@article{li2024phishintel,
+    title={PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection},
+    author={Li, Yuexin and Tan, Hiok Kuek and Meng, Qiaoran and Lock, Mei Lin and Cao, Tri and Deng, Shumin and Oo, Nay and Lim, Hoon Wei and Hooi, Bryan},
+    year={2025},
+    eprint={2412.09057},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    url={https://arxiv.org/abs/2412.09057}, 
 }
 ```
