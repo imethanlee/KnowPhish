@@ -4,7 +4,7 @@
 This is the official repository of our [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24) paper "[KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin)".
 
 ## Updates
-- [2025.01] [PhishIntel](https://arxiv.org/abs/2412.09057), our development-oriented phishing detection system built upon KnowPhish, is accepted by WWW 2025 (Demo).
+- [2025.01] [PhishIntel](https://arxiv.org/abs/2412.09057), our deployment-oriented phishing detection system built upon KnowPhish, is accepted by WWW 2025 (Demo).
 - [2024.12] [PhishAgent](https://arxiv.org/abs/2408.10738), our new work built upon KnowPhish, is accepted by AAAI 2025 (Oral).
 - [2024.11] We release the download link for the TR-OP dataset.
 
