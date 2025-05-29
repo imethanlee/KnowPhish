@@ -21,8 +21,8 @@ Please consider citing our papers if you find them useful:
 - KnowPhish (USENIX Security 2024): 
 ```bibtex
 @inproceedings {li2024knowphish,
-  author = {Yuexin Li and Chengyu Huang and Shumin Deng and Mei Lin Lock and Tri Cao and Nay Oo and Hoon Wei Lim and Bryan Hooi},
   title = {{KnowPhish}: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing {Reference-Based} Phishing Detection},
+  author = {Yuexin Li and Chengyu Huang and Shumin Deng and Mei Lin Lock and Tri Cao and Nay Oo and Hoon Wei Lim and Bryan Hooi},
   booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
   year = {2024},
   isbn = {978-1-939133-44-1},
@@ -35,25 +35,35 @@ Please consider citing our papers if you find them useful:
 ```
 - PhishAgent (AAAI 2025):
 ```bibtex
-@misc{cao2025phishagentrobustmultimodalagent,
-    title={PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection}, 
-    author={Tri Cao and Chengyu Huang and Yuexin Li and Huilin Wang and Amy He and Nay Oo and Bryan Hooi},
-    year={2025},
-    eprint={2408.10738},
-    archivePrefix={arXiv},
-    primaryClass={cs.CR},
-    url={https://arxiv.org/abs/2408.10738}, 
+@article{cao2025phishagent,
+  title={PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection},
+  author={Cao, Tri and Huang, Chengyu and Li, Yuexin and Huilin, Wang and He, Amy and Oo, Nay and Hooi, Bryan},
+  volume={39},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/35003},
+  DOI={10.1609/aaai.v39i27.35003},
+  number={27},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025},
+  month={Apr.},
+  pages={27869-27877}
 }
 ```
 - PhishIntel (WWW 2025 Demo):
 ```bibtex
-@misc{li2024phishintel,
-    title={PhishIntel: Toward Practical Deployment of Reference-based Phishing Detection},
-    author={Yuexin Li and Hiok Kuek Tan and Qiaoran Meng and Mei Lin Lock and Tri Cao and Shumin Deng and Nay Oo and Hoon Wei Lim and Bryan Hooi},
-    year={2025},
-    eprint={2412.09057},
-    archivePrefix={arXiv},
-    primaryClass={cs.CR},
-    url={https://arxiv.org/abs/2412.09057}, 
+@inproceedings{li2025phishintel,
+  title = {PhishIntel: Toward Practical Deployment of Reference-Based Phishing Detection},
+  author = {Li, Yuexin and Tan, Hiok Kuek and Meng, Qiaoran and Lock, Mei Lin and Cao, Tri and Deng, Shumin and Oo, Nay and Lim, Hoon Wei and Hooi, Bryan},
+  year = {2025},
+  isbn = {9798400713316},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3701716.3715192},
+  doi = {10.1145/3701716.3715192},
+  booktitle = {Companion Proceedings of the ACM on Web Conference 2025},
+  pages = {2863–2866},
+  numpages = {4},
+  keywords = {phishing detection system, real-time systems, task queue},
+  location = {Sydney NSW, Australia},
+  series = {WWW '25}
 }
 ```
